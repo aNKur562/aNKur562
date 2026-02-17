@@ -22,7 +22,7 @@ Strong foundation in **Data Structures & Algorithms**, REST APIs, and databases.
 ---
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankurBiswas?theme=dark&font=Baloo&ext=heatmap)
 
 ---
 
@@ -42,6 +42,4 @@ Strong foundation in **Data Structures & Algorithms**, REST APIs, and databases.
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (Add link)
-- Portfolio: (Optional)
+

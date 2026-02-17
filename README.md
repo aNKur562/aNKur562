@@ -11,4 +11,6 @@ I am a backend focused developer currently building backend systems using Java &
 ![](https://nirzak-streak-stats.vercel.app/?user=aNKur562&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aNKur562&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ankurBiswas?theme=dark&font=Baloo)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

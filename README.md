@@ -8,6 +8,7 @@ Strong foundation in **Data Structures & Algorithms**, REST APIs, and databases.
 - 🌱 Learning System Design & scalable architecture
 - 💡 Interested in building production-ready backend systems
 - 🎯 Goal: Crack top tech companies with strong backend + problem-solving skills
+- 🤖 Exploring Machine Learning fundamentals
 
 ---
 

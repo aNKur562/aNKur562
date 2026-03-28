@@ -5,7 +5,7 @@ Backend-focused developer building scalable backend systems using **Java & Sprin
 Strong foundation in **Data Structures & Algorithms**, REST APIs, and databases.  
 
 - 🔭 Currently focused on Backend + DSA mastery
-- 🌱 Learning System Design & scalable architecture
+-  🌱 Strengthening problem-solving skills through Data Structures & Algorithms
 - 💡 Interested in building production-ready backend systems
 - 🎯 Goal: Crack top tech companies with strong backend + problem-solving skills
 - 🤖 Exploring Machine Learning fundamentals

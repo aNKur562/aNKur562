@@ -29,12 +29,11 @@ Strong foundation in **Data Structures & Algorithms**, REST APIs, and databases.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=ankur562&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ankur562&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur562&theme=dark&hide_border=false&layout=compact)
 ---
 
 ## 🚀 Current Focus

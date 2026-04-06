@@ -29,18 +29,15 @@ Strong foundation in **Data Structures & Algorithms**, REST APIs, and databases.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ankur562&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Ankur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur562&show_icons=true&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ankur562&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankur562&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur562&theme=dark&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur562&layout=compact&theme=dark)
+
 ---
 
 ## 🚀 Current Focus
 - Advanced DSA practice
 - Spring Boot backend projects
 - Database & system design fundamentals
-
----
-
-
